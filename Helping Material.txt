@@ -1,0 +1,12 @@
+The following websites were utilized in the making of this project. 
+
+For sklearn classification algorithms
+1- https://scikit-learn.org/stable/supervised_learning.html
+
+For Error calculations 
+2-  https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+
+For parameter tuning
+3- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html?highlight=gridsearchcv#sklearn.model_selection.GridSearchCV
+
+I have also added the codes for previous milestones 
